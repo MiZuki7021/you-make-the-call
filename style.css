@@ -63,7 +63,6 @@ input:focus-visible, textarea:focus-visible, video:focus-visible {
 }
 .skip-link:focus { top: 8px; }
 
-/* 页首与导航 */
 .site-header {
   background: var(--paper);
   border-bottom: 1px solid var(--line);
@@ -270,7 +269,6 @@ summary:hover {
 summary::marker { color: #637b20; }
 details p { margin: 9px 0 2px; }
 
-/* 关于 视频 */
 .replay-section {
   padding: 58px 0;
   background: #e6ecde;
@@ -308,7 +306,6 @@ figcaption span {
   font-weight: 400;
 }
 
-/* 联系表单 页脚 */
 .contact-layout {
   grid-template-columns: minmax(0, .8fr) minmax(0, 1.2fr);
   align-items: start;
